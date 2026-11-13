@@ -15,3 +15,5 @@ Also, to run the benchmark programs, it is necessary to setup the databases
 both for the data source and application environments. For the Artifact
 Evaluation, we will provide containers for each data source and application
 environments that are ready for running the benchmark programs.
+
+@To/@From annotations on interactions are ommited in this version.
